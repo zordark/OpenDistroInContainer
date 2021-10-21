@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SnackSample.Tests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
